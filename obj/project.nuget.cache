@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xcdkQ+0MW/abaMh3Bg7ayLv/Eofn2/ub83duGby2kOxyRm4BQ9KWvBJ/4ZygsmvlpXCsxVWdJD/sgTV5nQSt8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dariu\\Pulpit\\Przydatne rzeczy\\Dotyk\\Dotyk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dariu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\dariu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\dariu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\dariu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
